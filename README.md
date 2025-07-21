@@ -69,9 +69,9 @@ Real-time analytics with custom charts
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=hashiroii&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashiroii&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
