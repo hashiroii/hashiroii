@@ -8,7 +8,9 @@
 
 ## 🎯 About Me
 
-Passionate Android developer crafting clean, scalable mobile experiences with modern architecture patterns.
+Hey there! I'm Magzhan, an Android developer from KBTU.
+I focus on building modular and scalable apps using Jetpack Compose and clean architecture.
+I'm a big fan of well-structured code, testability, and anything that improves the user experience.
 
 <div align="center">
 
@@ -77,7 +79,7 @@ Real-time analytics with custom charts
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hashiroii&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
@@ -85,21 +87,21 @@ Real-time analytics with custom charts
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashiroii&theme=radical" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hashiroii&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hashiroii&theme=radical" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yourusername&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=radical&utcOffset=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hashiroii&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hashiroii&theme=radical&utcOffset=6" />
 
 </div>
 
